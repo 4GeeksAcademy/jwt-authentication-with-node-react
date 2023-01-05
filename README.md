@@ -1,14 +1,15 @@
+<!--hide-->
 # JWT Authentication With Node & React.js
+<!--endhide-->
 
 Almost every website in the world has user authentication. In this project you have to implement user authentication using Node for building a backend REST API and React.js and sessionStorage API for the frontend web application.
-
 
 ## 🗒️ Instructions
 
 Implement an authentication system with the following parts:
 
-1. **Signup**: A person must be able to pick his/her email, any password and submit the form. A new user must be created in the database and the user must be redirected to the login form afterwards.
-2. **Login**: The user fills out its email and password and it's redirected to the private dashboard after successfull authentication.
+1. **Signup**: A person must be able to pick his/her email, and any password and submit the form. A new user must be created in the database and the user must be redirected to the login form afterward.
+2. **Login**: The user fills out their email and password and it's redirected to the private dashboard after successful authentication.
 3. **Validation**: Any page considered "private" must always validate that the current user is valid, if not, the page must redirect the user back to login.
 4. **Logout**: Any moment the user must be able to press "logout" in the navbar and it will get redirected back to the login path.
 
