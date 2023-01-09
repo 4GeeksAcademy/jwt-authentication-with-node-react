@@ -1,4 +1,6 @@
+<!--hide-->
 # Autenticación JWT con Node y React.js
+<!--endhide-->
 
 Casi todos los sitios web en el mundo tienen autenticación de usuarios, en este proyecto debes realizar una aplicación web implementando la autenticación de usuarios usando Node para construir un backend de REST API y React.js, y sessionStorage API para el Frontend.
 
