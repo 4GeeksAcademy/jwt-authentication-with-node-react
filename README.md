@@ -21,6 +21,8 @@ At least the following pages and react components must be implemented into the p
 | `/login`  | `<Login>`   | Renders the login form                                            |
 | `/private`| `<Private>` | Validates that only authenticated users and render this component |
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start coding this project:
 
 Do not clone this repository.
@@ -32,6 +34,8 @@ a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here
 b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
 
 💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+</onlyfor>
 
 ## More details about the authentication:
 
