@@ -23,6 +23,8 @@ Al menos las siguientes páginas y componentes de react deben ser implementados 
 | `/login`  | `<Login>`   | Renderizar formulario de Inicio de sesión                                    |
 | `/private`| `<Private>` | Validar que solo ingresen usuarios autenticados y renderizar este componente |
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Como comenzar a programar este proyecto:
 
 No clones este repositorio.
@@ -34,6 +36,8 @@ a) Si usas Gitpod (recomendado) tu puedes clonar la plantilla/boilerplate hacien
 b) Si trabajas de forma local, tipea el siguiente comando en tu linea de comando o consola: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
 
 💡 Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <tu nueva url>`), y carga el código de tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Más detalles sobre la autenticación:
 
