@@ -25,13 +25,15 @@ At least the following pages and react components must be implemented into the p
   
 ## 🌱 How to start coding this project:
 
-Do not clone this repository.
+Do not clone this repository! You will be using a different template.
 
-1. The first step to start coding is cloning the [React.js + Node boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) on your local computer or opening it using gitpod.
+We recommend opening the `React.js + Node boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/expressjs-rest-hello).
+This is the repository you need to open or clone:
 
-b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
+```sh
+$ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello
+```
 
 💡 Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
