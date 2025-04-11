@@ -1,1 +1,26 @@
-{"slug":"jwt-authentication-with-node-react","title":"Authentication system with Node and React.js","preview":"https://github.com/4GeeksAcademy/jwt-authentication-with-node-react/blob/main/preview.jpeg","status":"draft","translations":["es","us"],"technologies":["python","flask","react.js","javascript","jwt"],"difficulty":"intermediate","syntax":"javascript","duration":2,"template_url": "https://github.com/4GeeksAcademy/expressjs-rest-hello","description":"Almost every website in the world has user authentication, in this project you have to implement user authentication using NodeJS for building a backend REST API and React.js and sessionStorage API for the front end web application.","autoPlay":"false","projectType":"project","validationAt":1673301891753,"validationStatus":"success"}
+{
+  "slug": "jwt-authentication-with-node-react",
+  "title": {
+		"us": "Authentication system with Node and React.js",
+		"es": "Sistema de autenticación con Node y React.js"
+	},
+  "preview": "https://github.com/4GeeksAcademy/jwt-authentication-with-node-react/blob/main/preview.jpeg",
+  "status": "draft",
+  "translations": ["es", "us"],
+  "technologies": ["python", "flask", "react.js", "javascript", "jwt"],
+  "difficulty": "intermediate",
+  "syntax": "javascript",
+  "duration": 2,
+  "template_url": "https://github.com/4GeeksAcademy/expressjs-rest-hello",
+  "description": {
+    "us": "Learn to build a complete user authentication system using JWT with Node.js for the backend and React.js for the frontend. This project teaches secure login, signup, validation, and logout flows using sessionStorage and protected routes.",
+    "es": "Aprende a construir un sistema completo de autenticación de usuarios usando JWT con Node.js en el backend y React.js en el frontend. Este proyecto enseña login, registro, validación y cierre de sesión seguros usando sessionStorage y rutas protegidas."
+  },
+  "autoPlay": false,
+  "projectType": "project",
+  "validationAt": 1673301891753,
+  "validationStatus": "success",
+  "telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=531"
+	}
+}
