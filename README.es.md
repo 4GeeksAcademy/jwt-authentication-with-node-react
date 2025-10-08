@@ -23,17 +23,23 @@ Al menos las siguientes páginas y componentes de react deben ser implementados 
 | `/login`  | `<Login>`   | Renderizar formulario de Inicio de sesión                                    |
 | `/private`| `<Private>` | Validar que solo ingresen usuarios autenticados y renderizar este componente |
 
+<how-to-start>
+  
 ## 🌱 Como comenzar a programar este proyecto:
 
-No clones este repositorio.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-1. El primer paso para comenzar a programar es clonar el [React.js + Node API boilerplate](https://github.com/4GeeksAcademy/expressjs-rest-hello) en tu computadora o abriendo usando gitpod.
+Recomendamos abrir el `React.js + Node API boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonar el repositorio de [GitHub](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github) en tu computadora local utilizando el comando `git clone`.  
 
-a) Si usas Gitpod (recomendado) tu puedes clonar la plantilla/boilerplate haciendo [click aquí](https://gitpod.io#https://github.com/4GeeksAcademy/expressjs-rest-hello).
+Este es el repositorio que necesitas abrir o clonar:  
 
-b) Si trabajas de forma local, tipea el siguiente comando en tu linea de comando o consola: `git clone https://github.com/4GeeksAcademy/expressjs-rest-hello`.
+```sh
+$ git clone https://github.com/4GeeksAcademy/expressjs-rest-hello
+```
 
 💡 Recuerda crear un nuevo repositorio, actualiza el remoto (`git remote set-url origin <tu nueva url>`), y carga el código de tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</how-to-start>
 
 ## Más detalles sobre la autenticación:
 
